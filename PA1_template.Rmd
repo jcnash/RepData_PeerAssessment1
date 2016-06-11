@@ -2,7 +2,7 @@
 title: "Reproducible Research Assignment 1"
 author: "J Nash"
 date: "9 June 2016"
-output: html_document
+output: md_document
 ---
 
 # Loading and preprocessing the data
